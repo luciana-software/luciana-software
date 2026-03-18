@@ -1,4 +1,4 @@
 ### Olá! Eu sou a Luciana 👋
 
-- 🔭 Estudante.    
-- 🌱 FrontEnd.
+- 📚 Estudante.    
+- 💻 FrontEdn/ FullStack
