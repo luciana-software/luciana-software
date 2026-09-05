@@ -3,4 +3,4 @@
 - 📚 Estudante.    
 - 💻 FrontEnd/ FullStack/ IA Generativa
 
-Meu projeto de IA Generativa: https://sacred-silk-shop.lovable.app
+Meu projeto de IA Generativa: https://sacred-silk-shop.lovable.app/
