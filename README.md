@@ -1,4 +1,4 @@
 ### Olá! Eu sou a Luciana 👋
 
 - 📚 Estudante.    
-- 💻 FrontEnd/ FullStack
+- 💻 FrontEnd/ FullStack/ IA Generativa 
